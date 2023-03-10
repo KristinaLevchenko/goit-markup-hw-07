@@ -966,9 +966,9 @@ box-shadow:
     .container {
         max-width: 1158px;
     }
-    .team-item {
-    width: calc((100%-72px)/4);
-    }
+   .team-item {
+       width: calc((100% - 72px) / 4);
+   }
     .team {
         padding-bottom: 120px;
         padding-top: 120px;
